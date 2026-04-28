@@ -1,0 +1,14 @@
+# AI Object Analytics System – Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core AI / Vision
+ultralytics>=8.0.0          # YOLOv8
+supervision>=0.18.0          # Detection utilities + LineZone
+opencv-python>=4.8.0         # Webcam capture + frame processing
+
+# UI Framework
+PyQt6>=6.5.0                 # Main application window
+matplotlib>=3.7.0             # Analytics charts (uses QtAgg backend)
+
+# Utilities (usually already installed)
+numpy>=1.24.0

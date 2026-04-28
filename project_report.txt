@@ -1,0 +1,32 @@
+====================================================
+      DETAILED OBJECT TRACKING REPORT
+      Session Date: 2026-04-06
+====================================================
+
+FINAL STATS:
+Total Entries: 4
+Total Exits:   1
+
+DETAILED MOVEMENT LOG:
+--------------------------------------------------
+Time: 14:27:49 | Object: cell phone | ID: 15 | Action: Crossed IN
+Time: 14:28:00 | Object: bottle | ID: 16 | Action: Crossed IN
+Time: 14:29:08 | Object: scissors | ID: 3 | Action: Crossed IN
+Time: 14:29:10 | Object: bottle | ID: 1 | Action: Crossed IN
+Time: 14:29:11 | Object: cell phone | ID: 2 | Action: Crossed IN
+Time: 14:29:17 | Object: bottle | ID: 1 | Action: Crossed OUT
+Time: 14:29:19 | Object: scissors | ID: 3 | Action: Crossed OUT
+Time: 14:29:21 | Object: cell phone | ID: 2 | Action: Crossed OUT
+Time: 14:29:23 | Object: bottle | ID: 1 | Action: Crossed IN
+Time: 14:29:28 | Object: scissors | ID: 3 | Action: Crossed IN
+Time: 14:29:30 | Object: bottle | ID: 1 | Action: Crossed OUT
+Time: 14:29:30 | Object: cell phone | ID: 2 | Action: Crossed IN
+Time: 14:29:36 | Object: bottle | ID: 1 | Action: Crossed IN
+Time: 14:29:38 | Object: scissors | ID: 3 | Action: Crossed OUT
+Time: 14:30:49 | Object: cell phone | ID: 34 | Action: Crossed IN
+Time: 14:31:05 | Object: cell phone | ID: 38 | Action: Crossed OUT
+Time: 14:31:37 | Object: cell phone | ID: 58 | Action: Crossed IN
+Time: 14:31:52 | Object: bottle | ID: 1 | Action: Crossed IN
+Time: 14:31:54 | Object: scissors | ID: 3 | Action: Crossed IN
+Time: 14:31:54 | Object: cell phone | ID: 2 | Action: Crossed IN
+--------------------------------------------------

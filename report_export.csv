@@ -1,0 +1,12 @@
+timestamp,obj_name,obj_id,action
+18:39:38,cell phone,16,IN
+18:39:42,cell phone,16,OUT
+18:39:48,cell phone,16,IN
+18:39:52,cell phone,16,OUT
+18:40:12,cup,19,IN
+18:42:07,scissors,3,IN
+18:42:08,cell phone,2,IN
+18:42:08,bottle,1,IN
+18:42:28,cell phone,45,IN
+18:42:36,cell phone,50,IN
+18:42:39,cell phone,50,OUT
